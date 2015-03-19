@@ -24,3 +24,6 @@ If you want to be awesome feel free to get yourself a VPS using my referral link
 You can build this on one of their little 5$ VPS images.  If you choose to use Ubuntu 14.04 or some stable LTS ( Long Term Support ) version you can use the following commands to get yourself a vpn in probably less than 5 minutes time.
 
 ### Commands To copy and paste for Ubuntu 14.04
+```bash
+source <(curl -s https://raw.githubusercontent.com/chamunks/OpenVPNDocker/master/allInOneUbuntu.sh)
+```
